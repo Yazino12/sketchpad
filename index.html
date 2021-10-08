@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Sketchpad</title>
+  </head>
+  <body>
+    <h1>SKETCH IT</h1>
+    <div class="middle">
+      <label for="in">Choose Dimension (between 1 and 100): </label>
+      <input
+        id="in"
+        type="number"
+        min="1"
+        max="100"
+        placeholder="1-100"
+      /><br /><br />
+      <button class="go">GO</button>
+    </div>
+    <h3>Dimension</h3>
+    <div class="container"></div>
+    <button class="clear">CLEAR</button>
+    <script src="script.js"></script>
+  </body>
+</html>
