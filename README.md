@@ -23,7 +23,7 @@ To get a local copy up and running follow these setup steps.
 
 **Install**
 
-- In case you run into any errors please raise an [issue](https://github.com/Yazino12/testing-practice/issues).
+- In case you run into any errors please raise an [issue](https://github.com/Yazino12/sketchpad/issues).
 
 **Usage**
 
@@ -31,7 +31,7 @@ To get a local copy up and running follow these setup steps.
 
 ## Live
 
-- Link here: [Live](https://yazino12.github.io/testing-practice/)
+- Link here: [Live](https://yazino12.github.io/sketchpad/)
 
 ## Authors
 
